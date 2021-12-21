@@ -13,7 +13,7 @@ const SinglePost = () => {
                     </div>
                 </h1>
                 <div className="singlePostInfo">
-                    <span className="singlePostAuthor">Auhtor: <b>Esteban</b></span>
+                    <span className="singlePostAuthor">Author: <b>Esteban</b></span>
                     <span className="singlePostDate">1 hour ago</span>
                 </div>
                 <p className="singlePostDescription">
