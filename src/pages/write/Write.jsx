@@ -4,6 +4,11 @@ const Write = () => {
     return (
         <div className="write">
             <form className="writeForm">
+                <img
+                    className="writeImg"
+                    src="https://images.pexels.com/photos/6685428/pexels-photo-6685428.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                    alt=""
+                />
                 <div className="writeFormGroup">
                     <label htmlFor="fileInput">
                         <i className="writeIcon fas fa-plus"></i>
